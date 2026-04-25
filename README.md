@@ -2,6 +2,10 @@
 
 Production-ready Python CLI that scans files and directories for hardcoded secrets before they are committed.
 
+## Demo Output
+
+![Secret Detector Demo Output](assets/demo-output.png)
+
 ## What This Tool Does
 
 - Detects known secret formats with regex (AWS, GitHub, Stripe, Slack, JWT, private keys, etc.)
