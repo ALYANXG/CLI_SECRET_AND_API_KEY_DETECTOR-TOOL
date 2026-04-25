@@ -477,13 +477,13 @@ git push
 ## License
 
 MIT
-# 🔍 Secret & API Key Detector
+# Secret & API Key Detector
 
 A production-ready CLI tool that scans codebases for hardcoded secrets, API keys, tokens, and passwords — before they reach version control.
 
 ```
 ╔══════════════════════════════════════════════╗
-║       🔍  Secret & API Key Detector          ║
+║        Secret & API Key Detector             ║
 ╚══════════════════════════════════════════════╝
 
   📄 config/settings.py
@@ -495,7 +495,7 @@ A production-ready CLI tool that scans codebases for hardcoded secrets, API keys
                  [keyword] Value: Supe***d99!
 
   ══════════════════════════════════════════════
-  📊 SUMMARY
+  FINAL SUMMARY
   Total findings : 2
   Files affected : 1
 
