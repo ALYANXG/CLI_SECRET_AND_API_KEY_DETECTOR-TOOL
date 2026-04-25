@@ -1,0 +1,11 @@
+# Secret Detector — Python dependencies
+# All detection logic uses the Python standard library only.
+# The packages below are for testing and optional quality tooling.
+
+# ── Testing ────────────────────────────────────────────────────────────────
+pytest>=7.4.0
+pytest-cov>=4.1.0          # coverage reports: pytest --cov=. tests/
+
+# ── Linting / type checking (optional, for CI) ────────────────────────────
+# ruff>=0.1.0
+# mypy>=1.5.0
